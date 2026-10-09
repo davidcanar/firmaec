@@ -1,0 +1,27 @@
+# Compiled
+target/
+*.class
+
+# Tools (portable JDK/Maven/Vineflower)
+tools/
+
+# Test artifacts
+test-run/
+*.jks
+*.cer
+*.pfx
+*.p12
+
+# Local app config
+firmadigital.properties
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Logs
+*.log
